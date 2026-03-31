@@ -88,10 +88,10 @@ A **full-stack web portal** built as a team software engineering project for EKO
 </td>
 <td width="50%">
 
-### 📊 [PGDataWarehouse](https://github.com/SemihSarikoca/PGDataWarehouse)
-A **PostgreSQL-based data warehouse** for real estate analytics. Includes star-schema design, ETL pipelines, synthetic data generation, MDX queries, and optimization reports.
+### � [EmoFlex - Facial Emotion Toolkit](https://github.com/SemihSarikoca/MobileProject)
+A **mobile application** designed as a comprehensive facial emotion toolkit.
 
-`Python` `SQL` `PostgreSQL` `Data Engineering`
+`Java` `Android` `Mobile Development`
 
 </td>
 </tr>
