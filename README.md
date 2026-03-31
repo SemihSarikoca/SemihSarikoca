@@ -88,10 +88,10 @@ A **full-stack web portal** built as a team software engineering project for EKO
 </td>
 <td width="50%">
 
-### � [EmoFlex - Facial Emotion Toolkit](https://github.com/SemihSarikoca/MobileProject)
-A **mobile application** designed as a comprehensive facial emotion toolkit.
+### 📸 [EmoFlex - Facial Emotion Toolkit](https://github.com/SemihSarikoca/MobileProject)
+A **facial emotion toolkit** for GPU-ready training, evaluation, and ONNX deployment. Features real-time emotion recognition with YuNet face detection and optimized PyTorch backbones.
 
-`Java` `Android` `Mobile Development`
+`Python` `PyTorch` `ONNX` `OpenCV` `Computer Vision`
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ A **mobile application** designed as a comprehensive facial emotion toolkit.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SemihSarikoca-181717?style=for-the-badge&logo=github)](https://github.com/SemihSarikoca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/semihsarikoca)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semihsarikoca@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semihsarikoca4@gmail.com)
 
 <br/>
 
